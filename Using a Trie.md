@@ -25,7 +25,7 @@ class Trie:
     """
     Returns if there's a prefix in the Trie
     """
-        return self.find_node(prefix) is not None
+        return self.find_node(prefix)
 
     def find_node(self, string) -> Optional[TreeNode]:
     """

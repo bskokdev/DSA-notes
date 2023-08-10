@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92578e8e0ac8d068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prefix sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using a Trie.md",
+                "file": "Prefix sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using a Trie.md",
+                "file": "Prefix sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using a Trie.md"
+                "file": "Prefix sum.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750a132cd714ac7c",
+  "active": "92578e8e0ac8d068",
   "lastOpenFiles": [
-    "Grouping graph by condition.md",
     "Using a Trie.md",
+    "Prefix sum.md",
+    "Grouping graph by condition.md",
     "Two pointers.md",
     "Serialization DFS.md",
     "Sliding Window.md",
