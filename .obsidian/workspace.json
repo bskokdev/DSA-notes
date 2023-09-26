@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b12ef38ff49b8f33",
+        "id": "45720a3da7c92205",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff222ba41e3ec52",
+            "id": "452dd80bf1918a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f81a7bff1d947b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grouping graph by condition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750a132cd714ac7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using a Trie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92578e8e0ac8d068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prefix sum.md",
+                "file": "Grind128/Search in Rotated Sorted Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 426.5
   },
   "right": {
     "id": "098a74b05bee38e2",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prefix sum.md",
+                "file": "Grind128/Search in Rotated Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prefix sum.md",
+                "file": "Grind128/Search in Rotated Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prefix sum.md"
+                "file": "Grind128/Search in Rotated Sorted Array.md"
               }
             }
           }
@@ -184,24 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92578e8e0ac8d068",
+  "active": "452dd80bf1918a74",
   "lastOpenFiles": [
-    "Using a Trie.md",
-    "Prefix sum.md",
-    "Grouping graph by condition.md",
-    "Two pointers.md",
-    "Serialization DFS.md",
-    "Sliding Window.md",
-    "Multi-source BFS.md",
-    "Kahn's algo.md",
-    "Indexing binary tree levels (BFS).md",
-    "Grid border DFS.md",
-    "Backtracking.md",
-    "Cycle detection.md",
-    "daily/2023-07-12.md",
+    "Grind128/Longest Substring Without Repeating Characters.md",
+    "Grind128/Search in Rotated Sorted Array.md",
+    "Grind128/Count Number of Bad Pairs.md",
+    "Grind128/01 Matrix.md",
+    "Generic patterns/Tree traverals.md",
+    "Grind128/Single Element in a Sorted Array.md",
+    "Generic patterns/Trie usage.md",
+    "Generic patterns/Using a Trie.md",
+    "Generic patterns/Two pointers.md",
+    "Generic patterns/Sliding Window.md",
+    "Generic patterns/Serialization DFS.md",
+    "Generic patterns/Prefix sum.md",
+    "Generic patterns/Multi-source BFS.md",
+    "Generic patterns/Pasted image 20230913005710.png",
+    "Generic patterns/Kahn's algo.md",
+    "Generic patterns/Indexing binary tree levels (BFS).md",
+    "Generic patterns/Grouping graph into sets.md",
+    "Generic patterns/Grid border DFS.md",
+    "Generic patterns/Dijkstra's algorithm.md",
+    "Generic patterns/Coloured nodes.md",
+    "Generic patterns/Cycle detection.md",
+    "Grind128/Coin change.md",
+    "Grind128/3 Sum.md",
+    "Grind128/Course Schedule & Kahn’s algorithm.md",
+    "Grind128/Deep copy graph.md",
+    "Grind128/Eval Reverse Polish Notation.md",
+    "Grind128/Insert interval.md",
+    "Generic patterns",
+    "Grind128",
     "daily",
-    "Yo wtf is this.md",
-    "2023-07-11.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

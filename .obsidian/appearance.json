@@ -1,7 +1,8 @@
 {
   "accentColor": "#bd0000",
-  "theme": "obsidian",
-  "cssTheme": "Atom",
+  "theme": "moonstone",
+  "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "Share Tech Mono",
-  "baseFontSize": 20
+  "baseFontSize": 21,
+  "textFontFamily": "Consolas"
 }
